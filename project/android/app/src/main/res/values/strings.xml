@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Justito</string>
+    <string name="title_activity_main">SaboresApp</string>
+    <string name="package_name">com.tunombre.saboresapp</string>
+    <string name="custom_url_scheme">com.tunombre.saboresapp</string>
+</resources>
